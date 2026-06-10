@@ -1,2 +1,2 @@
 # LLM-Project
-Got motion with RAG my g
+Got motion with my RAG g
